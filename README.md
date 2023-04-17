@@ -1,6 +1,5 @@
 localoyal
 
-
 Nutzungsbedingungen von localoyal für Endkunden
 1.Geltungsbereich und Vertragsgegenstand
 1.1 Diese allgemeinen Nutzungsbedingungen regeln die Bedingungen zwischen uns, der localoyal
@@ -36,8 +35,6 @@ absendest.
 Point of Sale (POS) Terminal des Händlers genutzt werden. Voraussetzung für die Nutzung unseres
 Bonussystems ist die Einrichtung eines Nutzerkontos. Jeder Nutzer darf nur ein Nutzerkonto
 erstellen. Ein Anspruch auf Eröffnung eines Nutzerkontos besteht nicht.
-
-localoyal
 
 
 3.2 Registrierung
@@ -79,8 +76,6 @@ Das Begehen oder das Begünstigen krimineller Handlungen; das Übertragen oder V
 Virus, eines Trojaners, eines Wurms, einer logischen Bombe oder das Posten von anderen Inhalten
 mit bösartiger, technologieschädigender Wirkung bzw. Inhalten, die einen Vertrauensbruch
 
-localoyal
-
 
 darstellen oder die auf irgendeine Art und Weise obszön oder anstößig sind; das Eindringen
 (Hacken) in Teile der Dienste; das Beschädigen von Daten; das unaufgeforderte Verschicken von
@@ -121,8 +116,6 @@ erfolgt nicht.
 App Geschäfte an, bei denen Du das Bonussystem von localoyal nutzen kannst. Dein Standort,
 Bewegungsdaten etc. werden nicht aufgezeichnet.
 
-localoyal
-
 
 5. Coupons, Gutscheine und sonstige Vergünstigungen
 5.1 Du hast die Möglichkeit, innerhalb unserer Plattform verschiedene Angebote in Form von
@@ -147,7 +140,7 @@ Du uns per E-Mail (support@localoyal.de) oder per Post übermitteln. Wir werden 
 Vertragsbeendigung Deinen Account bei uns und die personenbezogenen Benutzerdaten löschen.
 6.2 Wir können den Vertrag innerhalb einer Kündigungsfrist von zwei Wochen kündigen. In diesem
 Fall gilt hinsichtlich der gesammelten Treuepunkte Ziffer 6.4.
-6.3 Bei einer Kündigung oder eines Widerrufs durch Dich sowie einer außerordentlichen
+6.3 Bei einer Kündigung oder einem Widerruf durch Dich sowie einer außerordentlichen
 Kündigung durch uns werden alle Punkte gelöscht und können nicht mehr bei unseren Partnern
 eingelöst werden.
 6.4 Sollte es zu einer ordentlichen Kündigung durch uns kommen oder solltest Du die
@@ -161,8 +154,6 @@ der Treuepunkte nach Beendigung des Kooperationsvertrages mit uns allein im Erme
 betroffenen Partners.
 6.6 Das Recht beider Parteien zur Kündigung des Vertrages aus wichtigem Grund im Sinne des §
 314 BGB bleibt unberührt.
-
-localoyal
 
 
 7. Datenschutz
@@ -195,16 +186,22 @@ Werbung oder Informationen, auf die direkt oder indirekt z.B. über sog. "Links"
 übernehmen insbesondere auch keine Haftung oder Gewähr für die Funktionstauglichkeit und
 Kompatibilität von Systemen, Programmen etc., die nicht unmittelbar zu unserem Angebot
 gehören und auf die wir insofern keinen Einfluss haben.
-10.3 Bei Vorsatz und grober Fahrlässigkeit haften wir nach den gesetzlichen Bestimmungen, auch
-für Vorsatz und grobe Fahrlässigkeit unserer gesetzlichen Vertreter und Erfüllungsgehilfen.
-10.4 Wir haften nach den gesetzlichen Bestimmungen bei schuldhaft verursachten Schäden aus
-der Verletzung des Lebens, des Körpers oder der Gesundheit, bei Schäden, die durch das Fehlen
-einer garantierten Beschaffenheit verursacht werden, sowie im Falle arglistig verschwiegener
-Mängel.
-
-localoyal
+10.3 Bei Vorsatz und grober Fahrlässigkeit haften wir nach den gesetzlichen Bestimmungen. Bei
+einfacher Fahrlässigkeit haften wir, vorbehaltlich gesetzlicher Haftungsbeschränkungen (zB
+Sorgfalt in eigenen Angelegenheiten; unerhebliche Pflichtverletzung), nur
+a) für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit,
+b) für Schäden aus der Verletzung einer wesentlichen Vertragspflicht (Verpflichtung, deren
+Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf
 
 
+deren Einhaltung der Vertragspartner regelmäßig vertraut und vertrauen darf); in diesem Fall ist
+unsere Haftung jedoch auf den Ersatz des vorhersehbaren, typischerweise eintretenden Schadens
+begrenzt.
+10.4 Die sich aus 10.3 ergebenden Haftungsbeschränkungen gelten auch gegenüber Dritten sowie
+bei Pflichtverletzungen durch Personen (auch zu ihren Gunsten), deren Verschulden wir nach
+gesetzlichen Vorschriften zu vertreten haben. Sie gelten nicht, soweit ein Mangel arglistig
+verschwiegen oder eine Garantie für die Beschaffenheit der Ware übernommen wurde und für
+Ansprüche des Käufers nach dem Produkthaftungsgesetz.
 10.5 Wir haben keine Kontrolle über die Herstellung und Qualität der angebotenen Leistungen und
 Produkte unserer Partner. Reklamationen und Beschwerden diesbezüglich sind stets direkt an den
 betreffenden Partner zu richten. Die in der App bereitgestellten Produkt- und
@@ -235,6 +232,8 @@ einverstanden bist, kannst Du die App jederzeit löschen.
 11.3 Sollten wir eine ältere App-Version nicht mehr unterstützen, kannst Du auf die neueste
 Version updaten. Wird ein Update nicht durchgeführt, kann die Nutzung der App nicht fortgeführt
 werden, was bezüglich dieser älteren App-Version als Kündigung des Nutzungsvertrages gilt. Wenn
+
+
 Du ein Update auf die neuste App-Version durchführst, kannst Du erneut auf Dein Nutzerkonto
 zugreifen.
 
@@ -242,10 +241,6 @@ zugreifen.
 Sollten einzelne Bestimmungen dieses Vertrages unwirksam oder undurchführbar sein oder nach
 Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des
 Vertrages im Übrigen unberührt.
-
-localoyal
-
-
 Sofern der Nutzer Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des
 öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen ist, ist ausschließlicher – auch
 internationaler - Gerichtsstand unser Geschäftssitz für alle Streitigkeiten aus oder im
